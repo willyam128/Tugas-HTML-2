@@ -1,0 +1,33 @@
+.day {
+	margin-top: 20px;
+	color: rgb(25, 93, 122);
+	cursor: pointer;
+  }
+  .container {
+	padding-bottom: 50px;
+  }  
+  body {
+	background-image: url('bg_jadwal.png');
+  }
+  .mt-3 {
+	color: rgb(142, 158, 174);
+  }
+.card-header {
+	background-color: #f9cf51; 
+  }
+  .card-body {
+	background-color: #9ba8a0; 
+  }
+  .btn-primary{
+    background-color: transparent !important ;
+    border-color: rgb(236, 230, 230) !important;
+    color: rgb(142, 158, 174) !important;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin: 0;
+}
+
+
+  
+  

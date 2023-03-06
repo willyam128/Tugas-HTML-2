@@ -1,0 +1,35 @@
+video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    object-fit: cover;
+    filter:brightness(75%)
+}
+td:nth-child(1){
+    color: rgb(236, 230, 230);
+}
+td:nth-child(3){
+    color: rgb(236, 230, 230);
+}
+
+.container {
+  padding-bottom: 50px;
+}
+th, td {
+    color: rgb(236, 230, 230);
+}
+.btn-primary {
+    background-color: transparent !important;
+    border-color: rgb(236, 230, 230) !important ;
+    color: rgb(236, 230, 230);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin: 0;
+}
+
+      
+
